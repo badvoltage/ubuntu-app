@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BadVoltage
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/BadVoltage/BadVoltage.qml
+Icon=bvsquare.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "The Bad Voltage podcast",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "BadVoltage": {
+            "apparmor": "BadVoltage.json",
+            "desktop": "BadVoltage.desktop"
+        }
+    },
+    "maintainer": "Stuart Langridge <sil-launchpad@kryogenix.org>",
+    "name": "org.kryogenix.badvoltage",
+    "title": "Bad Voltage",
+    "version": "1.1"
+}
